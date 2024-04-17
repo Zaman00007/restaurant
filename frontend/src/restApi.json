@@ -1,0 +1,213 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "dishes": [
+        
+                {
+                    "id": 1,
+                    "image": "./dinner1.jpeg",
+                    "title": "ROASTED LAMB RUMP",
+                    "category": "Dinner",
+                    "description": "Tender roasted lamb rump served with a side of seasonal vegetables."
+                },
+                {
+                    "id": 2,
+                    "image": "./dinner2.png",
+                    "title": "CITRUS CURED SALMON",
+                    "category": "Dinner",
+                    "description": "Delicious salmon fillet cured in citrus flavors, served with a light salad."
+                },
+                {
+                    "id": 3,
+                    "image": "./breakfast1.png",
+                    "title": "PAN SEARED SEA BASS",
+                    "category": "Breakfast",
+                    "description": "Fresh sea bass fillet pan-seared to perfection, accompanied by a zesty salsa."
+                },
+                {
+                    "id": 4,
+                    "image": "./dinner3.png",
+                    "title": "STUFFED STRAWBERRY",
+                    "category": "Dinner",
+                    "description": "Juicy strawberries stuffed with a sweet cream cheese filling, topped with chocolate drizzle."
+                },
+                {
+                    "id": 5,
+                    "image": "./lunch1.png",
+                    "title": "BEEF BURGER MEAL",
+                    "category": "Lunch",
+                    "description": "Classic beef burger served with crispy fries and your choice of dipping sauce."
+                },
+                {
+                    "id": 6,
+                    "image": "./dinner4.png",
+                    "title": "MUSSELS SOUP",
+                    "category": "Dinner",
+                    "description": "Rich and flavorful soup made with fresh mussels, tomatoes, and aromatic herbs."
+                },
+                {
+                    "id": 7,
+                    "image": "./dinner5.png",
+                    "title": "ITALIAN SPAGHETTI",
+                    "category": "Dinner",
+                    "description": "Traditional Italian spaghetti pasta tossed in a homemade marinara sauce."
+                },
+                {
+                    "id": 8,
+                    "image": "./dinner6.png",
+                    "title": "GRILLED FISH",
+                    "category": "Dinner",
+                    "description": "Fresh fish fillet grilled to perfection, served with a side of steamed vegetables."
+                },
+                {
+                    "id": 9,
+                    "image": "./chiecken.png",
+                    "title": "CHICKEN CAESAR SALAD",
+                    "category": "Lunch",
+                    "description": "Classic Caesar salad with grilled chicken, crisp romaine lettuce, croutons, and parmesan cheese."
+                },
+                {
+                    "id": 10,
+                    "image": "./toast.jpg",
+                    "title": "AVOCADO TOAST",
+                    "category": "Breakfast",
+                    "description": "Sliced avocado served on toasted artisan bread, drizzled with olive oil and sprinkled with sea salt and pepper."
+                },
+                {
+                    "id": 11,
+                    "image": "./images.jpeg",
+                    "title": "CHOCOLATE LAVA CAKE",
+                    "category": "Dessert",
+                    "description": "Decadent chocolate cake with a gooey molten center, served with vanilla ice cream and raspberry coulis."
+                },
+                {
+                    "id": 12,
+                    "image": "./tiramisu.jpeg",
+                    "title": "TIRAMISU",
+                    "category": "Dessert",
+                    "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder."
+                }
+            
+            
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
